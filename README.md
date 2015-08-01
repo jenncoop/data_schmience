@@ -14,5 +14,10 @@ A smorgasbord of data science resources
 - [Stanford's Machine Learning Course on Coursera](https://www.coursera.org/learn/machine-learning/home/info)
 - [Udacity's Intro to Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120)
 
+## Repos
+- [Code for Data Science from Scratch](https://github.com/joelgrus/data-science-from-scratch)
+
 ## Newsletters
 - [Data Elixir](http://dataelixir.com/)
+- [DataTau](http://www.datatau.com/)
+  - "Hacker News for data scientists"
