@@ -16,3 +16,6 @@ A smorgasbord of data science resources
 
 ## Newsletters
 - [Data Elixir](http://dataelixir.com/)
+
+## Lists of Lists
+- [awesome-datascience](https://github.com/okulbilisim/awesome-datascience)
