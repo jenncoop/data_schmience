@@ -3,11 +3,11 @@ A smorgasbord of data science resources
 
 ## Podcasts
 - [Partially Derivative](http://www.partiallyderivative.com/)
-- [Linear Digressions] (https://www.udacity.com/podcasts/linear-digressions)
-- [Talking Machines] (http://www.thetalkingmachines.com/)
+- [Linear Digressions](https://www.udacity.com/podcasts/linear-digressions)
+- [Talking Machines](http://www.thetalkingmachines.com/)
 
 ## Art
-- [Information is Beautiful] (http://www.informationisbeautiful.net/)
+- [Information is Beautiful](http://www.informationisbeautiful.net/)
 
 ## Education
 - [The Open Source Data Science Masters](http://datasciencemasters.org/)
@@ -21,3 +21,6 @@ A smorgasbord of data science resources
 - [Data Elixir](http://dataelixir.com/)
 - [DataTau](http://www.datatau.com/)
   - "Hacker News for data scientists"
+
+## Lists of Lists
+- [awesome-datascience](https://github.com/okulbilisim/awesome-datascience)
