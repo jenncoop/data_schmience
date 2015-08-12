@@ -24,3 +24,4 @@ A smorgasbord of data science resources
 
 ## Lists of Lists
 - [awesome-datascience](https://github.com/okulbilisim/awesome-datascience)
+- [Data science blogs](https://github.com/rushter/data-science-blogs)
