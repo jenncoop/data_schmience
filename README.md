@@ -13,6 +13,7 @@ A smorgasbord of data science resources
 - [The Open Source Data Science Masters](http://datasciencemasters.org/)
 - [Stanford's Machine Learning Course on Coursera](https://www.coursera.org/learn/machine-learning/home/info)
 - [Udacity's Intro to Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120)
+- [DataQuest](https://www.dataquest.io/)
 
 ## Repos
 - [Code for Data Science from Scratch](https://github.com/joelgrus/data-science-from-scratch)
